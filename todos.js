@@ -23,7 +23,7 @@ console.log(index);
     dlt.id="list_btn"
     dlt.type="submit"
     dlt.name=index
-    dlt.textContent="delete"
+    dlt.textContent="done"
     addlists.append(dlt)
     inputs.value=""
     let bindex=document.getElementsByClassName(dlt.name)
